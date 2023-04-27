@@ -1,0 +1,22 @@
+explicit 粗口
+clean 去除上面的粗口
+feat. 合作歌手
+Instrumental，Inst. 纯乐器演奏
+radio edit 电台编辑版
+intro 开场音乐
+outro 结束音乐
+acoustic 不含电子音乐
+cover 翻唱
+remix 混音
+demo 非正式版
+live 直播版
+
+Extended Mix：在原版的基础上在开头加上了更长的鼓点，一般与Original Mix，Radio Mix（或者Radio Edited）三者不能同时存在。
+
+Mixed，指专辑内各个单曲的衔接版本，制作人通过单曲元素的相似性进行叠加，从而衔接的更加顺畅。
+
+Bootleg:未经原作者授权的混音版本，一般不能进行商业发行。
+
+Dub Mix:与Instrumental大差不差的，都对人声进行剥离，不过Dub Mix在混响上进行了处理，并且仍然保留较少的人声元素（如人声切片）
+
+MUG Edited:音游改编版，通常为了适应音游将原曲结构进行缩减，并尽可能提速，使时长保持住两分钟左右。 
